@@ -19,4 +19,4 @@ def eat_lunch(lunch):
                 print(f"Next I eat {lunch[i]}")
     
 
-print(eat_lunch(["pears", "apples", "oranges"]))
+eat_lunch(["pears", "apples", "oranges"])
